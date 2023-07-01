@@ -21,17 +21,17 @@
 
 -- navbar.header:
 logo: $assets.files.images.logo.svg
-logoURL: /portfolio
+logoURL: /fastn_Portfolio
 header-item1: Home
 header-item2: About
 header-item3: Blogs
 header-item4: Projects
-header-item1-link: /portfolio
-header-item2-link: /portfolio/about
-header-item3-link: /portfolio/blogs
-header-item4-link: /portfolio/projects
+header-item1-link: /fastn_Portfolio
+header-item2-link: /fastn_Portfolio/about
+header-item3-link: /fastn_Portfolio/blogs
+header-item4-link: /fastn_Portfolio/projects
 cta-item2: Schedule a Meeting
-cta-item2-link: https://calendly.com/ayushsoni1010
+cta-item2-link: https://calendly.com/kbhavre78
 
 ;; ----------------------------------------------------------------
 ;; ***** PORTFOLIO Header ends *****
@@ -45,7 +45,7 @@ cta-item2-link: https://calendly.com/ayushsoni1010
 
 -- toast.stack: 
 title: Hello, I'm aspiring fastn developer based in India
-link: YOUR_GITHUB_HANLDE
+link: https://github.com/kbhavre
 
 ;; -----------------------------------------------------
 ;; ***** PORTFOLIO Toast ends *****
@@ -71,7 +71,7 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: YOUR_NAME,
+secondTitle: KUNAL BHAVARE,
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: frontend
@@ -95,7 +95,7 @@ spacing.fixed.px: 10
 
 -- button.secondary: 
 title: Hire me
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:kbhavre78@gmail.com
 
 -- button.primary: 
 title: Schedule a Meeting
@@ -117,27 +117,27 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: YOUR_LINKEDIN_HANLDE
+link: https://www.linkedin.com/in/kunal-bhavare-467863228/
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
-link: YOUR_TWITTER_HANDLE
+link: https://twitter.com/kbhavre78
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: YOUR_GITHUB_HANLDE
+link: https://twitter.com/kbhavre78
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
-link: YOUR_INSTAGRAM_HANLDE
+link: https://instagram.com/__k_u_n_a_l__b_
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
-link: YOUR-YOUTUBE_HANDLE
+link: https://youtube.com/kunalbhavare
 image: $assets.files.images.youtube.png
 
 -- social.social-button-wrapper:
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:kbhavre78@gmail.com
 image: $assets.files.images.mail.png
 
 -- end: ftd.row
